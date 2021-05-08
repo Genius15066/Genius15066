@@ -45,6 +45,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Genius15066&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Genius15066&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
 [portfolio]: https://my-portfolio-66.web.app/
 [facebook]: https://www.facebook.com/profile.php?id=100012109721854
 [linkedin]: https://www.linkedin.com/in/genius-1809015/
