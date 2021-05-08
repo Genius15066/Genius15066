@@ -38,6 +38,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Make Your Basic Strong in JS](https://genius15.medium.com/make-your-basic-strong-in-js-cd17afadb3f9?source=rss-a36aa5f4ee59------2)
 - [Learn the Magic of React World](https://genius15.medium.com/learn-the-magic-of-react-world-d18b26bed124?source=rss-a36aa5f4ee59------2)
 - [10 Exciting Topics You Need to Learn to Make Your Knowledge More Stronger in JS Part-1](https://genius15.medium.com/10-exciting-topics-you-need-to-learn-to-make-your-knowledge-more-stronger-in-js-part-1-7ab0fd1ef895?source=rss-a36aa5f4ee59------2)
 - [JavaScript Array Method Part-1](https://genius15.medium.com/javascript-array-method-part-1-32b2c90520f1?source=rss-a36aa5f4ee59------2)
