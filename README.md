@@ -43,6 +43,7 @@
 - [JavaScript Array Method Part-1](https://genius15.medium.com/javascript-array-method-part-1-32b2c90520f1?source=rss-a36aa5f4ee59------2)
 <!-- BLOG-POST-LIST:END -->
 
+---
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Genius15066&theme=nightowl&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
