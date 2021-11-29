@@ -1,19 +1,22 @@
 <p align="center">
  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="Github Readme Stats" />
- <h2 align="center">Profile</h2>
+ <h2 align="center">Hi,My name is Genius <img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"> </h2>
 </p>
-<div align="center">
- <p>Hi My name is</p>
- <h1>Genius</h1>
-</div>
 
+<h3 font-size="20" align="center">```A passionate web developer and a Engineering student from Bangladesh 💻```</h3> <br>
 
-## I'm a Programmer & Web Developer
+- 🌱 I’m a enthusiastic tech learner <img align="right" style="width:16rem; height:12rem" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
 
- 🌱 I’m a curious tech learner <br />
- 👯 I’m looking forward to work with other programmer <br /> 
- 🥅 2021 Goals: Leran MERN stack more efficiently <br />
- ⚡ Fun fact: I love to play football and cricket <br />
+ - 🤔 ```I’m looking for an **internship/job**```
+
+ - 👯 I’m looking forward to work with other programmer 
+ 
+ - 🥅 ```2021 Goals: Leran **MERN stack** more efficiently ```
+ 
+ - ⚡ Fun fact: I love to play football and cricket 
+ 
+---
+
 
 ### Connect with me!
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)][facebook] 
