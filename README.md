@@ -3,9 +3,9 @@
  <h2 align="center">Hi,My name is Genius <img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"> </h2>
 </p>
 
-<h3 font-size="20" align="center">```A passionate web developer and a Engineering student from Bangladesh 💻```</h3> <br>
+<h3 font-size="20" align="center">```A passionate web developer and  Engineering student from Bangladesh 💻```</h3> <br>
 
-- 🌱 I’m a enthusiastic tech learner <img align="right" style="width:16rem; height:12rem" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
+- 🌱 I’m a enthusiastic tech learner <img align="right" style="width:16rem; height:11rem" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
 
  - 🤔 ```I’m looking for an **internship/job**```
 
