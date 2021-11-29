@@ -1,6 +1,6 @@
 <p align="center">
  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="Github Readme Stats" />
- <h2 align="center">Hi,My name is Genius <img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"> </h2>
+ <h2 align="center">Hi, My name is Genius <img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"> </h2>
 </p>
 
 <h3 font-size="20" align="center">```A passionate web developer and  Engineering student from Bangladesh 💻```</h3> <br>
@@ -35,13 +35,11 @@
 [![VSCode Badge](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)](#) 
 [![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#)
 
-<br />
-<br />
+--------
 
-## My Activities
- 
+<h1 font-size="40" align="center">My Acitvities</h1> <br>
 
-### 📕 Latest Blog Posts
+### 📘 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Make Your Basic Strong in JS](https://genius15.medium.com/make-your-basic-strong-in-js-cd17afadb3f9?source=rss-a36aa5f4ee59------2)
@@ -50,11 +48,19 @@
 - [JavaScript Array Method Part-1](https://genius15.medium.com/javascript-array-method-part-1-32b2c90520f1?source=rss-a36aa5f4ee59------2)
 <!-- BLOG-POST-LIST:END -->
 
----
+-----
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Genius15066&theme=nightowl&show_icons=true)](https://github.com/Genius15066)
+<div align="center">
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Genius15066&theme=nightowl&show_icons=true)](https://github.com/Genius15066) 
+ 
+ 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Genius15066&theme=nightowl)](https://github.com/Genius15066)
+
+
+</div>
+
+
 
 
 [portfolio]: https://my-portfolio-66.web.app/
