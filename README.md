@@ -11,7 +11,7 @@
 
  - 👯 I’m looking forward to work with other programmer 
  
- - 🥅 ```2022 Goals: Leraning **MERN stack** more efficiently ```
+ - 🥅 ```2023 Goals: Leraning **BlockChain** more efficiently ```
  
  - ⚡ Fun fact: I love to play football and cricket 
  
